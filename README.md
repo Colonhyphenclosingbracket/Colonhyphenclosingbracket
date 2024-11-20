@@ -1,1 +1,3 @@
-A random person noodling with Python, and is still trying to learn about it.
+START DATE: 11 AUG 2024.
+AD TEMPO CLSD DUE TO MAINT.
+RMKS: NOTAM IN EFFECT UNTIL FURTHER NOTICE.
